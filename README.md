@@ -10,6 +10,12 @@
 
 </div>
 
+<div align="center">
+
+*"Código bom não apenas funciona — ele protege proprietários e usuários, escala com facilidade e sempre se adequa ao contexto em que existe."*
+
+</div>
+
 ---
 
 ## Sobre mim
@@ -82,11 +88,3 @@ Atendimento técnico, suporte a infraestrutura e sistemas.
 
 🎓 **Bacharelado em Ciência da Computação** — UVV _(2022–2027)_
 🎓 **Tecnólogo em Cibersegurança** — UNOPAR _(2021–2024)_
-
----
-
-<div align="center">
-
-*"Código bom não apenas funciona — ele protege proprietários e usuários, escala com facilidade e sempre se adequa ao contexto em que existe."*
-
-</div>
