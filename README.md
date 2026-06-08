@@ -12,7 +12,7 @@
 
 <div align="center">
 
-*"Código bom não apenas funciona — ele protege proprietário e usuário, escala com facilidade e sempre se adequa ao contexto em que existe."*
+*"Código bom não é o que apenas funciona — é o que protege proprietário e usuário, possui escalabilidade e se adequa ao contexto em que existe."*
 
 </div>
 
