@@ -82,7 +82,3 @@ Atendimento técnico, suporte a infraestrutura e sistemas.
 
 🎓 **Tecnólogo em Cibersegurança**, UNOPAR _(2021–2024)_
 
-
-
-🎓 **Bacharelado em Ciência da Computação**, UVV _(2022–2027)_
-🎓 **Tecnólogo em Cibersegurança**, UNOPAR _(2021–2024)_
